@@ -54,7 +54,7 @@ list of APIs:
 
 ### API example
 
-#### using HTTPie:
+#### using [HTTPie](https://github.com/jakubroztocil/httpie):
 
 ```
 http http://localhost:8000/show_blockchain
